@@ -117,7 +117,7 @@ fitness_threshold     = 10000
 
 ## 📝 License  
 
-This project is licensed under the **MIT License**. Feel free to use and modify it!  
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ---
 
